@@ -1,0 +1,46 @@
+
+.section{
+  padding: 25px 0;
+  min-height: 90vh;
+}
+
+.galImg{
+  width: 200px;
+}
+
+
+.aboutImg{
+  width: 375px;
+  height: 375px;
+}
+
+
+
+
+.contact form .collectBtn{
+  margin: 5px;
+  background-color: black;
+  color: #fff;
+  font-weight: bold;
+}
+
+.conImg{
+  height: 190px;
+}
+
+@media (max-width:1200px)
+{
+  
+  .info{
+    margin-left: 50px;
+    font-size: 18px;
+  }
+  
+}
+
+
+
+
+
+
+
